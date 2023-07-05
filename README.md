@@ -30,6 +30,7 @@
 
 - CSS
 
+
 <details>
   <summary>Client</summary>
   <ul>
@@ -59,6 +60,21 @@ To get a local copy up and running, follow these steps.
   ```
 
 ### Setup
+1. Clone the repo by running the command
+   ```https
+    https://github.com/Eugeneiyukhun/Hello_Microverse_Project.git
+2. Open the directory of the project
+   ```https
+   cd Hello_Microverse_Project.git
+3. Install project dependencies
+   ```https
+   run npm install
+   ```
+4. Open the html file
+   run npm start
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Prerequisites
 
 In order to run this project you need:
